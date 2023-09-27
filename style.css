@@ -22,23 +22,20 @@ body{
     border-radius: 20px;
     padding: 1rem 1.5rem;
     box-shadow: 0 0 10px #008b8b;
+    transition: all 1.6s ease-in-out;
 }
 .heading>span{
     color: #663399;
     font-weight: 800;
 }
 .container_items{
-    min-width: 360px;
-    padding: 1rem 2rem;
-    background-color: #afeeee;
-    border: 4px solid #00cc99;
-    border-radius: 40px;
+    width: max-content;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
 .item{
-    padding: 0 5px;
+    padding: 0 1rem;
     font-family: 'Mulish', sans-serif;
     font-weight: 600;
     display: flex;
@@ -49,13 +46,19 @@ body{
     text-align: center;
     display: inline-block;
     font-size: 1.1rem;
-    color: #008b8b ;
+    font-weight: 600;
+    color: #000039;
+    text-shadow: 0 0 5px #acacac;
+    margin-bottom: 10px;
 }
 .item-value{
-    padding-top: 15px;
+    padding: .8rem;
     text-align: center;
     font-size: 1.5rem;
     font-weight: 800;
+    border: 1px solid #008b8b;
+    border-radius: 5px;
+    background-color: #b0e0e6;
 }
 .footer{
     position: fixed;
