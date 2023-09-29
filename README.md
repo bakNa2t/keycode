@@ -11,4 +11,6 @@
 
 ---
 
-[![Keycode Webapp](./images/keycode.png)](https://bakna2t.github.io/keycode/)
+<!-- [![Keycode Webapp](./images/keycode.png)](https://bakna2t.github.io/keycode/) -->
+
+[<img alt="Keycode Webapp" src ="./images/keycode.png" width="400" target="_blank" />](https://bakna2t.github.io/keycode/)
