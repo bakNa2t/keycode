@@ -7,7 +7,7 @@
 - the function `displayKeyCode()` is triggered when using the `keydown` event
 - using pseudo selector **`::before`** to display image discription
 - automatic changing of style atribute `background-color` when the function `displayKeyCode()` is triggered
-- click here => [_**Display Keycode Webapp**_](https://bakna2t.github.io/ciry-gallery/)
+- click here => [_**Display Keycode Webapp**_](https://bakna2t.github.io/keycode/)
 
 ---
 
