@@ -36,7 +36,7 @@ function displayKeyCode(e){
 
     body.appendChild(div);
 
-    footer.innerHTML = 'Design by <span>Stay:OK</span>';
+    footer.innerHTML = 'Designed by <a href="https://github.com/bakna2t" target="_blank">_&#216;k</a>';
     footer.className = 'footer';
     body.appendChild(footer);
 }
